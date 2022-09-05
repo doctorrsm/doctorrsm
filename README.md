@@ -4,7 +4,8 @@
 | ![](https://github.com/doctorrsm/doctorrsm/blob/main/img/giphy.gif) | ![](https://github.com/doctorrsm/doctorrsm/blob/main/img/giphy.gif) |
 |---------------------------------------------------------------------|---------------------------------------------------------------------|
 |                                                                     |                                                                     |
-## About me
+
+## 🛠 About me
 ```yaml
 name: Rutkovsky Sergey
 Current activities: Frontend developer
@@ -24,11 +25,12 @@ Tools:
  Cms:
   [Joomla, Wordpress, OpenCart, ModX]
 ```
+## 🎓 Education
 
-## Education
 ![My education](https://github.com/doctorrsm/doctorrsm/blob/main/img/sertificates.png) 
 
-## My git stats
+## 📊 My git stats
+
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doctorrsm&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 |-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
