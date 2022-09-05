@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Let's%get%acquainted&animation=fadeIn)
