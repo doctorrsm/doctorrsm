@@ -9,3 +9,7 @@ education:
 
   ]
 ```
+
+## Education
+
+![My education](https://github.com/doctorrsm/doctorrsm/blob/main/img/sertificates.png) 
