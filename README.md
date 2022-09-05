@@ -29,7 +29,6 @@ Tools:
 ![My education](https://github.com/doctorrsm/doctorrsm/blob/main/img/sertificates.png) 
 
 ## My git stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doctorrsm&show_icons=true&theme=radical)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=doctorrsm)](https://github.com/anuraghazra/github-readme-stats)
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doctorrsm&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
